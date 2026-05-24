@@ -1,0 +1,17 @@
+1. 第一章 1.5节：_book,Car,car_1,calr,carl_Car,Car_Type
+2. 第二章 2.7节：
+   + 7： -4，1，0
+   + 8： 
+     - (1) 5/3向下取整是1,int * double -> double 
+     - (2) 10*5.2 -> double 52.0 'a'->double=97.0
+     - (3) 3.0f * 24L  long->float -->72.0f ; 12U 是 unsigned int->float
+   + 10: 
+     + i % j == 0
+     + isalpha(ch) 
+     + m % 2 == 0
+     + n < 100 && n % 2 != 0
+     + a + b > c && a + c > b && b + c > a
+     + !(a == b && b == c)
+3. 第三章 3.8节： 都放在程序题中了
+4. 第四章 4.8节： 放在程序题中了
+5. 第五章 5.8节： 放在程序题中了
